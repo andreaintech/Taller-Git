@@ -1,5 +1,8 @@
-Hola. 
 
-Esto es una prueba para Git.
+	Hola. 
 
-Andrea Da Silva.
+	Esto es una prueba para Git.
+
+	Hice un cambio en este archivo.
+
+		Autor. Andrea Da Silva.
