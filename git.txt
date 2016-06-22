@@ -1,4 +1,10 @@
 
+	Esta es la nueva fase de modificaciones
+	*
+	*
+	*
+	*
+	
 
 
 	Esto es una prueba para Git.
